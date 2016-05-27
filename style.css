@@ -1,0 +1,9 @@
+header{
+  background-color: whitesmoke;
+  border: 3px dotted #003399;
+  padding: 10px;
+  text-align: center;
+}
+h1{
+  font-family: Arial, sans-serif, serif;
+}
